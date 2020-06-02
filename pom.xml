@@ -5,11 +5,11 @@
     <artifactId>saint</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-    
+
     <dependencies>
         <dependency>
-            <groupId>webcam-capture-0.3.10</groupId>
-            <artifactId>webcam-capture-0.3.10</artifactId>
+            <groupId>com.github.sarxos</groupId>
+            <artifactId>webcam-capture</artifactId>
             <version>0.3.10</version>
         </dependency>
         <dependency>
@@ -24,9 +24,9 @@
         </dependency>
 
         <dependency>
-            <groupId>jnativehook</groupId>
+            <groupId>com.1stleg</groupId>
             <artifactId>jnativehook</artifactId>
-            <version>0.1</version>
+            <version>1.1.5</version>
         </dependency>
 
 
@@ -36,9 +36,9 @@
             <version>0.6.2</version>
         </dependency>
         <dependency>
-            <groupId>activation</groupId>
+            <groupId>javax.activation</groupId>
             <artifactId>activation</artifactId>
-            <version>0.1</version>
+            <version>1.1.1</version>
         </dependency>
     </dependencies>
     <properties>

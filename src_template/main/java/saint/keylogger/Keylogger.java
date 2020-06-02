@@ -39,10 +39,11 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.logging.Level;
-import org.jnativehook.GlobalScreen;
-import org.jnativehook.NativeHookException;
-import org.jnativehook.keyboard.NativeKeyEvent;
-import org.jnativehook.keyboard.NativeKeyListener;
+import org.1stleg
+import org.1stleg.jnativehook.GlobalScreen;
+import org.1stleg.jnativehook.NativeHookException;
+import org.1stleg.jnativehook.keyboard.NativeKeyEvent;
+import org.1stleg.jnativehook.keyboard.NativeKeyListener;
 
 /**
  *
